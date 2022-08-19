@@ -22,5 +22,5 @@
 | [*cоздание дашборда по пользовательским событиям для агрегатора новостей*](https://public.tableau.com/app/profile/tatiana1258/viz/Project_DA_16555401993030/_) | построение дашборда с метриками взаимодействия пользователей с карточками статей в Яндекс.Дзене | Tableau |
 
 
-[Алхимова Татьяна Николаевна_20222DA00527.pdf](https://github.com/TanyaAlk/YandexPracticum_DAprojects/files/9380880/_20222DA00527.pdf)
+
 
